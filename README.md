@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janedgrey
 - 👀 I’m interested in QA testing of software many devices
-- 🌱 I’m currently learning about 
+- 🌱 I’m currently learning about working as a freelance tester
 - 💞️ I’m looking to collaborate on projects requiring manual testing
 - 📫 How to reach me - jsnedgrey@gmail.com
 - 😄 Pronouns: she
